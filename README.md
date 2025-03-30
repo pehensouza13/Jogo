@@ -13,5 +13,20 @@ Ghost Shooter é um jogo 2D desenvolvido para a disciplina de Computação Gráf
 🎮 **Motor Gráfico**: Construct 3  
 💾 **Banco de Dados**: Firebase (NoSQL)  
 
-### 🖼️ Prints da Aplicação e Banco de Dados
+🖼️ Prints da Aplicação e Banco de Dados
+🎮 Jogo em Execução
+Gameplay
+![image](https://github.com/user-attachments/assets/5195a332-b38d-47d2-921a-98b603a5546c)
+
+
+🗄️ Banco de Dados
+Banco de Dados![image](https://github.com/user-attachments/assets/7e5e578b-3f8c-4dc9-b796-e344cd448ff6)
+
+
+🌐 Link para Acessar a Aplicação Online
+Acesse o jogo através do seguinte link: Wizard Warfare
+https://preview.construct.net/local.html
+
+📜 Licença
+Este projeto foi desenvolvido para fins acadêmicos.
 
