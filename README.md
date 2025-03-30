@@ -1,26 +1,17 @@
-# Jogo
-Este é um aplicativo simples do jogo Jokenpô (Pedra, Papel e Tesoura) desenvolvido em Flutter. O jogador compete contra a inteligência artificial do aplicativo e pode acompanhar a contagem de vitórias e derrotas.
+**🔫 Ghost Shooter - Jogo 2D**  
 
-Funcionalidades
+### 🎮 Sobre o Projeto  
+Ghost Shooter é um jogo 2D desenvolvido para a disciplina de Computação Gráfica, onde o jogador controla um atirador e deve eliminar fantasmas para acumular pontos. O jogo possui integração com um banco de dados NoSQL (Firebase) para armazenar pontuações e estatísticas dos jogadores.  
 
-O jogador pode escolher entre Pedra, Papel ou Tesoura.
+### 🏆 Funcionalidades  
+✅ Controle de um atirador com diferentes armas e habilidades.  
+👻 Inimigos variados com padrões de movimentação e dificuldade progressiva.  
+🏅 Pontuação salva no banco de dados NoSQL.  
 
-O aplicativo faz uma escolha aleatória e exibe o resultado.
+### 🛠️ Tecnologias Utilizadas  
+🖥️ **Plataforma de Desenvolvimento**: Construct 3  
+🎮 **Motor Gráfico**: Construct 3  
+💾 **Banco de Dados**: Firebase (NoSQL)  
 
-O placar é atualizado a cada rodada, mostrando quantas partidas o jogador e o aplicativo venceram.
-
-O resultado do jogo é destacado em cores para melhor compreensão:
-
-Azul: Vitória do jogador.
-
-Vermelho: Derrota do jogador.
-
-Amarelo: Empate.
-
-As opções de escolha possuem imagens ilustrativas e legenda para facilitar a interação.
-
-Tecnologias Utilizadas
-
-Flutter: Framework para desenvolvimento do aplicativo.
-
+### 🖼️ Prints da Aplicação e Banco de Dados
 
